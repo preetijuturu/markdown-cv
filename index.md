@@ -2,8 +2,8 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Preeti Juturu
+Researcher & Student
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -13,74 +13,113 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Researcher @ UCR Center for Geospatial Sciences
 
-### Specialized in
+### Research & Teaching Interests 
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Health Disparities; Urban/Regional Infrastructure; Socioeconomic Inequalities; Environmental Justice; Geospatial Sciences; Sociological Determinants of Health; Sustainability Studies; Quantitative Methods
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2018 - Present`
+__University of California, Riverside__
+- B.A. Public Policy & Economics (Concentrations in Health/Population Policy and Urban/Environmental Policy)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`June 2020 - September 2020`
+__University of California, Davis__
+- Visiting Scholar (Public Policy & Political Science)
 
 
+## Honors, Awards & Fellowships 
 
-## Awards
+`2021`
+Health Equity Scholar, *[California Initiative for Health Equity and Action (Cal-IHEA)](https://healthequity.berkeley.edu/)*
 
-`2012`
-President, *Royal Society*, London, UK
+`2021`
+Plenary Speaker, *Harvard College National Collegiate Research Conference*
 
-Associate, *French Academy of Science*, Paris, France
+`2020`
+Award Recipient, *University of California Center, Sacramento Governance Fellow Award*
 
+`2018`
+Executive Fellow, *Associated Students of the University of California, Riverside*
 
+### Publications in Peer-Reviewed Journals 
+N/A
 
-## Publications
+## Manuscripts & Writing 
+Juturu, Preeti. 2021. “Assessing Emergency Healthcare Accessibility in the Salton Sea Region of Imperial County, California.” (Under revision, PLOS ONE)
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+Foruzan, Sahar, Preeti Juturu, and Isabelle Swanson. 2021. “Air quality and environmental health in the Salton Sea region of California: a scoping review.” (In-progress)
 
-### Journals
+### Professional Reports, Media & Other Writing 
+Rey, Sergio, Elijah Knaap, Preeti Juturu and Jenny Chen. 2021. “University of California, Riverside Center for Geospatial Sciences 2020-2021 Academic Year Annual Report.” University of California, Riverside Center for Geospatial Sciences. (In-progress)
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Juturu, Preeti, Sahar Foruzan and Swanson Isabelle. 2021. “Exposing the Desert III: Politics and Public Policy of the Salton Sea.” ArcGIS StoryMaps. (In-progress)
 
-`1669`
-Lectiones opticæ.
+Swanson, Isabelle, Preeti Juturu, and Sahar Foruzan. 2020. [“Exposing the Desert II: Environmental Justice in California’s Desert Wetland.”](https://storymaps.arcgis.com/stories/d93d73ca89a84023aa09d0a38202daaf) ArcGIS StoryMaps.
 
-etc. etc. etc.
+Juturu, Preeti. 2020. [“The True ‘Coronavirus Pandemic’ Is the Spread of Racism and Xenophobia through the Media.”](https://www.highlandernews.org/37558/the-true-coronavirus-pandemic-is-the-spread-of-racism-and-xenophobia-through-the-media/) The Highlander Newspaper, February 11.
 
-### Patents
+### Teaching Experience
+`2021`
+__University of California, Riverside__
+- Course Grader, PBPL 002: Politics and Public Policy
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+### Research Experience
+`2020 - Present`
+__[UCR Center for Geospatial Sciences (CGS)](https://spatial.ucr.edu/)__
+- Researcher
 
+`2020 - Present`
+__[UCR Center for Health Disparities Research (HDR@UCR)](https://healthdisparities.ucr.edu/)__
+- Research Assistant
 
-## Occupation
+`2020`
+__[UC Center, Sacramento](https://uccs.ucdavis.edu/)__
+- Independent Researcher
 
-`1600`
-__Royal Mint__, London
+## Conference & Symposium Presentations 
+Foruzan, Sahar, Preeti Juturu, and Isabelle Swanson. “Story Maps: From a Community Engaged Research Perspective,” Center for Health Disparities Research Annual Symposium, University of California, Riverside. February 2021.
 
-- Warden
-- Minted coins
+Juturu, Preeti. “Assessing Emergency Healthcare Accessibility in the Salton Sea Region of Imperial County, California”, Los Angeles Geospatial Summit, University of Southern California. February 2021.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Juturu, Preeti. “Assessing Emergency Healthcare Accessibility in the Salton Sea Region of Imperial County, California”, National Collegiate Research Conference, Harvard College. January 2021.
+
+Juturu, Preeti. “Assessing Emergency Healthcare Accessibility in the Salton Sea Region of Imperial County, California”, UCCS Undergraduate Poster Showcase, University of California Center, Sacramento. August 2020.
+
+### Other Presentations, Panels & Talks   
+“GIS @ UCR Virtual Panel”, Panel Discussant. UCR Center for Geospatial Sciences, School of Public Policy, Marlan and Rosemary Bourns College of Engineering, School of Business and Office of Development. University of California, Riverside. February 2021.
+
+“Inclusive Language & Government”, Workshop Host. Associated Students of the University of California, Riverside. University of California, Riverside. August 2020.
+
+“Measuring Spatial Accessibility, the PySAL Spatial Access Package and Using Access in Policy Analysis”, Presenter. UCR Center for Geospatial Sciences. University of California, Riverside. August 2020.
+
+“Legislation and the Legislative Process”, Workshop Host, Associated Students of the University of California, Riverside. University of California, Riverside. September 2019.
+
+### Institutional Service
+Member, University of California, Riverside Academic Senate Committee on Diversity, Equity and Inclusion (CoDEI)
+
+Member, Disability Ad Hoc Committee, University of California Student Association
+
+School of Public Policy Senator and President Pro Tempore, Associated Students of the University of California, Riverside
+
+Committee Member, UCR Counts Census Counts Committee
+
+### Certificates
+HHS Record Management Training, U.S. Department of
+Health and Human Services (2021)
+
+Social-Behavioral-Educational (SBE) Basic, The Collaborative Institutional Training Initiative (CITI Program), University of California, Riverside (2020)
+
+### Organizational & Professional Affiliations 
+American Planning Association Divisions: Economic Development, Food Systems, Small Town and Rural Planning, Transportation, Environment, Natural Resources and Energy
+
+Delta Alpha Pi Honor Society Member, Zeta Psi Chapter
+
+UC Center, Sacramento Summer 2020 Cohort Member, Program Alumnus
+
 
 
 
